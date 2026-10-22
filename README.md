@@ -1,4 +1,4 @@
-# Project Bramble *(placeholder name)*
+# Project *Sebound*
 
 A 2D adventure prototype built in **Godot 4.8**: a Cuphead-style overworld, Hollow Knight / Cuphead-style
 platforming stages, and Super Smash Bros.-style battles, with a story told through NPC dialogue.
