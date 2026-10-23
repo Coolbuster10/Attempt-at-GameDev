@@ -105,17 +105,6 @@ This runs about 40 checks: movement, sprint, jump, crawl, climbing, tripping, pi
 save, combat damage and %, the combat tutorial, the boss patterns and victory flow, the overworld, menus and
 the loading screen. It exits with code 0 when everything passes.
 
-## Sharing on GitHub
-
-The folder is a git repository with Godot's `.gitignore` (the `.godot/` cache is not committed; `*.import`
-files are). To publish it:
-
-```
-git add -A
-git commit -m "Prototype: overworld, platforming, combat, boss, menus"
-gh repo create project-bramble --private --source=. --push   # or add a remote and git push
-```
-
 ## Not in the prototype yet
 
 - Audio (no music or sound effects yet)
